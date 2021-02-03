@@ -1,4 +1,4 @@
-# HackRosatomTranformator
+# HackRosatomTranformator https://hackatom.ru/
 
 Задание 
 https://drive.google.com/file/d/1RVpX8JIQJBGhxOqg7dbUSqKo7ZqUkX_9/view

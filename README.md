@@ -29,3 +29,9 @@ https://www.rosseti.ru/investment/standart/corp_standart/doc/CTO_34.01-23-003-20
 Схема: https://drive.google.com/file/d/1TuWwnir0tT1_tmuyYRn8Ki2RSBc1R2Hq/view?usp=sharing
 
 Задачи: https://docs.google.com/spreadsheets/d/1wOH0dTbhwgqzddpnMRaGi4PV-KEhKcUkYXuh1sTjCjY/edit?usp=sharing
+
+
+Запуск:
+uvicorn models_api/HoltWinters:app --reload
+voila --port=8001 --no-browser --template=material --enable_nbextensions=True Dashboard/Dashboard.ipynb --theme=dark
+

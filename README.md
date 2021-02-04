@@ -10,10 +10,10 @@ https://drive.google.com/file/d/1updi4qax1-x3fi5fggtbTQBlTPevS0HI/view
 https://www.rosseti.ru/investment/standart/corp_standart/doc/CTO_34.01-23-003-2019.pdf
 
 Контакты
+
 Организатор: hackatom@rosenergoatom.ru - Степанова Елена Александровна
 
-Координаторы:
-Ekaterina Baybakova - @evbaybakova
+Координатор: Ekaterina Baybakova - @evbaybakova
 
 Эксперты:
 Главный эксперт - Кудлович Роман, ЦА АО "Концерн Росэнергоатом" kudlovich-rv@rosenergoatom.ru @KudlovichRoman

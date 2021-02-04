@@ -9,6 +9,7 @@ https://www.rosseti.ru/investment/standart/corp_standart/doc/CTO_34.01-23-003-20
 
 Контакты
 Организатор: hackatom@rosenergoatom.ru - Степанова Елена Александровна
+
 Координаторы:
 Ekaterina Baybakova - @evbaybakova
 Кудлович Роман Валерьевич - @KudlovichRoman

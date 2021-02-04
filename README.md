@@ -12,6 +12,7 @@ https://www.rosseti.ru/investment/standart/corp_standart/doc/CTO_34.01-23-003-20
 
 Координаторы:
 Ekaterina Baybakova - @evbaybakova
+
 Кудлович Роман Валерьевич - @KudlovichRoman
 
 

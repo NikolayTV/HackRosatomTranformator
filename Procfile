@@ -1,1 +1,1 @@
-web: viola --port=$PORT --no-browser --template=material --enable_nbextensions=True ./Dashboard/
+web: voila --port=$PORT --no-browser --enable_nbextensions=True 
